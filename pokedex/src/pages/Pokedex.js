@@ -71,9 +71,9 @@ button{
 `
 
 const Cards = styled.div`
-display: grid;
-justify-content: center;
-grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+display: flex;
+justify-content: flex-start;
+flex-wrap: wrap;
 padding-top: 30px;
 
 @media screen and (min-width: 320px) and (max-width: 480px) {

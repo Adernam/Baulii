@@ -11,6 +11,8 @@ flex-direction: column;
 justify-content: space-between;
 align-items: center;
 height: 300px;
+width: 200px;
+min-width: 180px;
 border-radius: 10px;
 margin: 30px;
 overflow: hidden;
