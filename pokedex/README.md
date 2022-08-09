@@ -4,6 +4,9 @@ Projeto em Front-end baseado no desenho Pokémon
 
 ![image](https://user-images.githubusercontent.com/74456716/183741631-7307f53d-6e4d-45c4-be7b-eb20213d66d9.png)
 
+## Link da aplicação
+https://wary-hair.surge.sh
+
 ## Funcionalidades
 - Visualizar Pokémons
 - Visualizar estatísticas de cada pokémon
