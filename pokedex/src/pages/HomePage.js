@@ -37,7 +37,6 @@ header{
 };
 `
 
-
 const Div = styled.div`
 position: sticky;
 top: 80px;
@@ -50,9 +49,9 @@ height: 5px;
 `
 
 const Cards = styled.div`
-display: grid;
+display: flex;
 justify-content: center;
-grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+flex-wrap: wrap;
 background-color: #8BB884;
 padding-top: 30px;
 
