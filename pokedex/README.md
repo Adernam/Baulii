@@ -9,6 +9,7 @@ Projeto em Front-end baseado no desenho Pokémon
 - Visualizar estatísticas de cada pokémon
 - Adicionar a Pokedex
 - Remover da Pokedex
+- Responsividade
 
 ## Meta
 Adernam Ferris Bauli - @Baulii - adernam147@hotmail.com
