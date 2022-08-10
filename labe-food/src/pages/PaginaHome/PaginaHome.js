@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from 'react';
-import { GlobalStateContext } from "../../global/GlobalStateContext";
+import { GlobalStateContext } from '../../global/GlobalStateContext';
 import { CardRestaurant } from './CardRestaurant';
 import { Container, DivFooter, DivSearch, InputSearch, LogoHome, LogoHomeDiv, SelectRestaurantType, TelaInicial } from './styled';
 import SelectType from './SelectType';
