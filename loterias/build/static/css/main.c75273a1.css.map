@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.c75273a1.css","mappings":"2FAEA,KAEE,iCAAqC,CADrC,QAEF","sources":["index.css"],"sourcesContent":["@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;900&display=swap');\r\n\r\nbody {\r\n  margin: 0;\r\n  font-family: 'Montserrat', sans-serif;\r\n}"],"names":[],"sourceRoot":""}
