@@ -1,6 +1,6 @@
 # Chama
 
-O objetivo deste trabalho é trabalhar com algumas das ferramentas que usamos diariamente no Chama. Ele é projetado para verificar as habilidades de codificação e resolução de problemas.
+O objetivo deste trabalho é bBuscar dados de usuários do github de uma API pública usando ReactJs.
 
 ![chrome_wVPPU2wAnD](https://user-images.githubusercontent.com/74456716/185215336-d22f761a-a373-41ee-86c5-fc80c64f9894.png)
 ![image](https://user-images.githubusercontent.com/74456716/185216708-a208a47b-14c3-4401-b789-c1a1b45b11c4.png)
